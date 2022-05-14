@@ -11,3 +11,13 @@ Depending on the data type (qualitativeor quantitative)of the target variable (c
 
 
 ![image](https://user-images.githubusercontent.com/63391946/168397018-90190268-62e5-4e2e-8488-71626087db2c.png)
+
+
+The output of front end is gonna look like this:
+![image](https://user-images.githubusercontent.com/63391946/168423299-3f171e78-f595-43b8-8072-cf8013dfcfa1.png)
+
+For a genuine site:
+![image](https://user-images.githubusercontent.com/63391946/168423330-45812eb6-46e9-4027-a98e-8d6ab94adad0.png)
+
+For a phishing site:
+![image](https://user-images.githubusercontent.com/63391946/168423367-291e5cee-a685-4989-b730-87f9f504faa6.png)
